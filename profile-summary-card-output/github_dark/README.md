@@ -22,13 +22,3 @@
 ```
 
     
-
----
-
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/hindsjay/hindsjay/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
-```
-
-    

@@ -22,13 +22,3 @@
 ```
 
     
-
----
-
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/hindsjay/hindsjay/main/profile-summary-card-output/midnight_purple/1-repos-per-language.svg)
-```
-
-    

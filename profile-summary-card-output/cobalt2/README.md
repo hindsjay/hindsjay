@@ -22,13 +22,3 @@
 ```
 
     
-
----
-
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/hindsjay/hindsjay/main/profile-summary-card-output/cobalt2/1-repos-per-language.svg)
-```
-
-    
